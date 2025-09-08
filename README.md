@@ -24,6 +24,7 @@
 ## 🔍 Problem Statement
 
 **Goal:**  
+
 Forecast whether a US domestic flight is likely to be cancelled, using historical flight, delay, and airline data.
 
 **Challenges Addressed:**
