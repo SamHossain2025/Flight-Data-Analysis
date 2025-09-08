@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="6 Assets/Banner.png" width="100%">
+  <img src="5 Assets/Banner.png" width="100%">
 </p>
 
 # ✈️ Flight Cancellation Prediction for US Airlines
