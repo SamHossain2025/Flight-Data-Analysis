@@ -4,8 +4,9 @@
 
 # ✈️ Flight Cancellation Prediction for US Airlines
 
-*AI-powered prediction of domestic US flight cancellations using airline data from 2021-2023, modelled with machine learning and dashboarded via Dash.*
+*AI-powered prediction of domestic US flight cancellations using airline data, modelled with machine learning and dashboarded via Dash.*
 
+- Dataset timeline: **2010 January – 2023 December**
 - Topics covered: **Airline Operations Analytics**  
 - Models used: **Random Forest, Logistic Regression**  
 - Skills demonstrated: **Feature Engineering, ROC analysis, Dashboarding**  
