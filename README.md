@@ -66,7 +66,7 @@ Forecast whether a US domestic flight is likely to be cancelled, using historica
 
 ---
 
-## 🧪 Key Findings
+## 🎯 Key Findings
 
 * Monthly cancellation spikes in **January, July, December**  
 * Highest cancellations on **Mondays & Fridays**  
@@ -81,7 +81,7 @@ Forecast whether a US domestic flight is likely to be cancelled, using historica
 
 ---
 
-## 🧪 Key Recommendations
+## 💡 Key Recommendations
 
 * Pre-warn passengers in **high-risk months** with alerts or flexible booking offers
 * Reinforce operations staffing on **Mondays/Fridays**
@@ -129,7 +129,7 @@ jupyter notebook
 
 ---
 
-## 📊 Data Sources
+## 🧬 Data Sources
 
 * 📌 [US BTS Flight Delay Data](https://www.transtats.bts.gov/)  
 * 📌 Public airline operation datasets (via Kaggle)
