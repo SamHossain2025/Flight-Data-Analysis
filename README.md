@@ -88,9 +88,9 @@ Forecast whether a US domestic flight is likely to be cancelled, using historica
 * Prioritize contingency planning at **top 10 volatile airports**
 
 <p align="center">
-  <img src="6 Assets/Recommendation1.png" width="80%">
-  <img src="6 Assets/Recommendation2.png" width="80%">
-  <img src="6 Assets/Recommendation3.png" width="80%">
+  <img src="5 Assets/Recommendation1.png" width="80%">
+  <img src="5 Assets/Recommendation2.png" width="80%">
+  <img src="5 Assets/Recommendation3.png" width="80%">
 </p>
 
 ---
@@ -98,7 +98,7 @@ Forecast whether a US domestic flight is likely to be cancelled, using historica
 ## 📊 Output Dashboard
 
 <p align="center">
-  <img src="6 Assets/Dashboard1.png" width="80%">
+  <img src="5 Assets/Dashboard1.png" width="80%">
 </p>
 
 ---
