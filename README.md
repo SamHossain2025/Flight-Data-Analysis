@@ -171,7 +171,7 @@ rf_model = joblib.load("model_rf.pkl")
   <img src="6 Assets/Banner.png" width="100%">
 </p>
 
-# 📦 Flight Cancellation Prediction for US Airlines
+# ✈️ Flight Cancellation Prediction for US Airlines
 
 *AI-powered prediction of domestic US flight cancellations using airline data from 2021-2023, modelled with machine learning and dashboarded via Dash.*
 
@@ -222,11 +222,9 @@ Forecast whether a US domestic flight is likely to be cancelled, using historica
 **🔹 Verdict:** Random Forest provided better class separation and was selected for the dashboard.
 
 <p align="center">
-  <img src="6 Assets/Model1.png" width="80%">
-  <img src="6 Assets/Model2.png" width="80%">
-  <img src="6 Assets/Model3.png" width="80%">
-  <img src="6 Assets/Model4.png" width="80%">
-  <img src="6 Assets/Model5.png" width="80%">
+  <img src="5 Assets/Model1.png" width="80%">
+  <img src="5 Assets/Model2.png" width="80%">
+  <img src="5 Assets/Model3.png" width="80%">
 </p>
 
 ### 🛬 Cancellation Analysis & Dashboard Workflow
@@ -245,11 +243,10 @@ Forecast whether a US domestic flight is likely to be cancelled, using historica
 * Disproportionate cancellations concentrated in **specific airports** (e.g., ATL, ORD, DFW)
 
 <p align="center">
-  <img src="6 Assets/Findings1.png" width="80%">
-  <img src="6 Assets/Findings2.png" width="80%">
-  <img src="6 Assets/Findings3.png" width="80%">
-  <img src="6 Assets/Findings4.png" width="80%">
-  <img src="6 Assets/Findings5.png" width="80%">
+  <img src="5 Assets/Findings1.png" width="80%">
+  <img src="5 Assets/Findings2.png" width="80%">
+  <img src="5 Assets/Findings3.png" width="80%">
+  <img src="5 Assets/Findings4.png" width="80%">
 </p>
 
 ---
@@ -264,8 +261,6 @@ Forecast whether a US domestic flight is likely to be cancelled, using historica
   <img src="6 Assets/Recommendation1.png" width="80%">
   <img src="6 Assets/Recommendation2.png" width="80%">
   <img src="6 Assets/Recommendation3.png" width="80%">
-  <img src="6 Assets/Recommendation4.png" width="80%">
-  <img src="6 Assets/Recommendation5.png" width="80%">
 </p>
 
 ---
@@ -274,10 +269,6 @@ Forecast whether a US domestic flight is likely to be cancelled, using historica
 
 <p align="center">
   <img src="6 Assets/Dashboard1.png" width="80%">
-  <img src="6 Assets/Dashboard2.png" width="80%">
-  <img src="6 Assets/Dashboard3.png" width="80%">
-  <img src="6 Assets/Dashboard4.png" width="80%">
-  <img src="6 Assets/Dashboard5.png" width="80%">
 </p>
 
 ---
@@ -319,7 +310,7 @@ jupyter notebook
 
 This project is licensed under the [MIT License](LICENSE)
 
----
+
 
 
 
