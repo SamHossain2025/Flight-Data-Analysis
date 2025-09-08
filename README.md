@@ -17,7 +17,8 @@
 
 ## 👥 Authors
 
-**Sam Hossain ** and MMA Team Gordon Members (Alisha Sahota, Anthony Ramelo, Chris Wu, Elizabeth Zhang, Emily Zhao)
+**Sam Hossain ** 
+and MMA Team Gordon Members (Alisha Sahota, Anthony Ramelo, Chris Wu, Elizabeth Zhang, Emily Zhao)
 
 ---
 
